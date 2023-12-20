@@ -1,1 +1,1 @@
-# Reinforcement-Learning-From-Human-Feedback
+# Reinforcement Learning From Human Feedback
