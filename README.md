@@ -28,12 +28,12 @@ Summary 2: How to balance visiting places you've been before versus visiting new
 
 * RLHF consists of 3 stages
   
-  <img width="533" alt="image" src="https://github.com/thisarakaushan/Reinforcement-Learning-From-Human-Feedback/assets/125348115/eec834d8-256f-4781-9944-7844b5e525fe">
+  <img width="550" alt="image" src="https://github.com/thisarakaushan/Reinforcement-Learning-From-Human-Feedback/assets/125348115/eec834d8-256f-4781-9944-7844b5e525fe">
   <br>
 
 ### What is an ML pipeline?
 
-  <img width="206" alt="image" src="https://github.com/thisarakaushan/Reinforcement-Learning-From-Human-Feedback/assets/125348115/3bd2bfad-2603-472b-a12f-94db0e9fc0fe">
+  <img width="210" alt="image" src="https://github.com/thisarakaushan/Reinforcement-Learning-From-Human-Feedback/assets/125348115/3bd2bfad-2603-472b-a12f-94db0e9fc0fe">
 
   * Orange boxes are components, or steps of your ML workflow
   * Blue boxes are the artifacts produced
